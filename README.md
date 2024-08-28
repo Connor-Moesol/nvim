@@ -1,1 +1,1 @@
-# 💤 My LazyVim 
+# 💤 My LazyVim Setup
